@@ -108,8 +108,3 @@ Universidade Estadual de Santa Cruz — UESC
     <img src="https://img.shields.io/badge/GitHub-Thiago--de--Freitas-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Thiago Freitas">
   </a>
 </div>
-
-  <a href="https://github.com/Thiago-de-Freitas" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Thiago--de--Freitas-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</div>
