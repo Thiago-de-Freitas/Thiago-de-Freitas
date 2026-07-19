@@ -1,53 +1,100 @@
-# Thiago de Freitas Gonçalves
+<h1 align="center">Thiago de Freitas Gonçalves</h1>
 
-## Sócio Fundador da Empresa Punk Code Soution
+<p align="center">
+  <strong>Empreendedor | Desenvolvedor Full Stack | QA Tester</strong>
+</p>
 
-## Empreendedor | Desenvolvedor Web | QA Tester
+<p align="center">
+  Sócio-fundador da <strong>Punk Code Solution</strong><br>
+  Ilhéus, Bahia, Brasil
+</p>
 
-### Educação
-- Universidade Estadual de Santa Cruz, Curso de Ciência da Computação.
+## Sobre mim
 
-### Foco Técnico
-Meu foco acadêmico e profissional está centrado no desenvolvimento web utilizando tecnologias de vanguarda. Minha competência abrange:
-- Linguagens: JavaScript, TypeScript, Java.
-- Frameworks: Angular.js, Node.js, Postgres, Express.
-- Testes de Software: Teste de API REST, Teste de Automação com Selenium.
+Sou estudante de Ciência da Computação na Universidade Estadual de Santa Cruz (UESC), desenvolvedor de software e empreendedor.
 
-### Empreendedorismo
-Além da minha dedicação à tecnologia, alimento a ambição de criar empreendimentos no campo tecnológico. Tenho projetos pessoais significativos:
-- Studio & Style: Uma solução para gestão de salões de beleza, alavancando tecnologia para aprimorar a administração.
+Atuo na criação de aplicações web, APIs REST, automações e soluções digitais. Também possuo experiência com qualidade de software, testes de API e automação de testes.
 
-Meu objetivo é contribuir significativamente para a evolução do setor tecnológico, tanto através da excelência técnica quanto do empreendedorismo.
+Como sócio-fundador da Punk Code Solution, trabalho no desenvolvimento de produtos tecnológicos voltados à solução de problemas reais e à transformação de ideias em aplicações funcionais.
 
-<div align="center" height="100%" >
-  <a href="https://github.com/thiagofreitasfreelancer">
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagofreitasfreelancer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
-  <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofreitasfreelancer&layout=compact&langs_count=7&theme=dark"/>
+## Tecnologias
+
+### Desenvolvimento
+
+- **Linguagens:** JavaScript, TypeScript, Java e Python
+- **Frontend:** Angular, React, Next.js, HTML e CSS
+- **Backend:** Node.js, Express, Spring Boot e APIs REST
+- **Banco de dados:** PostgreSQL, Redis e Prisma ORM
+- **Infraestrutura:** Docker, Docker Compose e pipelines de CI/CD
+
+### Qualidade de Software
+
+- Testes de APIs REST
+- Automação de testes com Selenium
+- Testes de API com REST Assured
+- Planejamento e execução de cenários de teste
+- Validação funcional de aplicações web
+
+## Projetos em destaque
+
+### Gamers League
+
+Plataforma para criação e gerenciamento de ligas e competições de jogos eletrônicos, inicialmente direcionada ao Counter-Strike 2.
+
+O projeto utiliza Angular, Node.js, Express, Prisma, PostgreSQL, Redis, Python e Docker.
+
+[Conhecer o projeto](https://github.com/Thiago-de-Freitas/cs-league)
+
+### Punk Code Solution
+
+Projeto institucional da empresa Punk Code Solution, desenvolvido com TypeScript para apresentação de serviços e soluções digitais.
+
+[Conhecer o projeto](https://github.com/Thiago-de-Freitas/Punk-Code-Solution)  
+[Visitar o site](https://punk-code-solution.vercel.app)
+
+### AutoYou
+
+Projeto de automação desenvolvido em Python, direcionado à criação de fluxos automatizados e integração de tarefas.
+
+[Conhecer o projeto](https://github.com/Thiago-de-Freitas/Autoyou)
+
+### AutomationInsta
+
+Soluções desenvolvidas em Java para automação de operações e integração com APIs.
+
+[Automação](https://github.com/Thiago-de-Freitas/AutomationInsta)  
+[API](https://github.com/Thiago-de-Freitas/AutomationInstaApi)
+
+### Finanças News
+
+Projeto web da Punk Code Solution voltado à apresentação de conteúdo e informações financeiras.
+
+[Conhecer o projeto](https://github.com/Punk-Code-Solution/Financas-news)
+
+### Studio & Style
+
+Solução para gestão de salões de beleza, idealizada para facilitar processos administrativos, organização de atendimentos e relacionamento com clientes.
+
+## Formação
+
+**Bacharelado em Ciência da Computação**  
+Universidade Estadual de Santa Cruz — UESC
+
+## Estatísticas do GitHub
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Thiago-de-Freitas&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-de-Freitas&layout=compact&langs_count=8&theme=github_dark" />
 </div>
-  
-  ##
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg">  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://www.imagensanimadas.com/data/media/278/sol-imagem-animada-0858.gif">
+
+## Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/thiago-freitas-178870172/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Thiago%20Freitas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://github.com/Thiago-de-Freitas" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Thiago--de--Freitas-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </div>
-  
-  ##
-  
- <div> 
-  <a href="https://www.instagram.com/thiago.freitas_oficial/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/thiago-freitas-178870172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/ThiagoFreitasFreelancer/ThiagoFreitasFreelancer/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-<!---
-ThiagoFreitasFreelancer/ThiagoFreitasFreelancer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
