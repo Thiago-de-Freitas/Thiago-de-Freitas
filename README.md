@@ -83,8 +83,16 @@ Universidade Estadual de Santa Cruz — UESC
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Thiago-de-Freitas&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-de-Freitas&layout=compact&langs_count=8&theme=github_dark" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=Thiago-de-Freitas&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Thiago-de-Freitas&layout=compact&langs_count=8&theme=github_dark" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thiago-de-Freitas/Thiago-de-Freitas/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thiago-de-Freitas/Thiago-de-Freitas/output/github-contribution-grid-snake.svg">
+    <img alt="Animação da cobrinha de contribuições" src="https://raw.githubusercontent.com/Thiago-de-Freitas/Thiago-de-Freitas/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ## Contato
