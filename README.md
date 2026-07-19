@@ -98,9 +98,16 @@ Universidade Estadual de Santa Cruz — UESC
 ## Contato
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/thiago-freitas-178870172/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Thiago%20Freitas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.punkcodesolution.com.br/" target="_blank">
+    <img src="https://img.shields.io/badge/Punk_Code_Solution-Visitar_site-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site da Punk Code Solution">
   </a>
+  <a href="https://www.linkedin.com/in/thiago-freitas-178870172/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Thiago_Freitas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Thiago Freitas">
+  </a>
+  <a href="https://github.com/Thiago-de-Freitas" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Thiago--de--Freitas-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Thiago Freitas">
+  </a>
+</div>
 
   <a href="https://github.com/Thiago-de-Freitas" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Thiago--de--Freitas-181717?style=for-the-badge&logo=github&logoColor=white">
